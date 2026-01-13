@@ -1,0 +1,10 @@
+# See config.example.yml for documentation.
+object_base: orig/RVSE69/DATA
+object: sys/main.dol
+hash: 15d4fd3d77173ad4cef1654fe6edfbec81b79ed3
+symbols: config/RVSE69/symbols.txt
+splits: config/RVSE69/splits.txt
+common_start: 0x80004000
+# Change this to match the linker version.
+# See config.example.yml for a list.
+mw_comment_version: 11
